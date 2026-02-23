@@ -1,0 +1,26 @@
+- primo teorema di shannon
+- codici pesati
+- informazione mutua
+- <X, p> ma al posto di p usi q, cosa succede a E(lc)
+- codici di huffman
+- codici ciclici
+- correzione per codici ciclici
+- parla di codici singolari, non singolari, univocamente decodificabili e istantaneo, il rapporto tra loro
+- parla di shannon-fano
+- chain rule
+- entropia generale
+- dimostra kraft
+- dimostra kraft-mcmillan
+- codice hamming
+- Primo teorema di shannon: contesto, dimostrazione e significato del teorema (a uno studente è stata chiesta la definizione, ad un altro la dimostrazione. Ad entrambi ha chiesto il contesto).
+- Esempi di codici che ritroviamo durante l'uso quotidiano: vuole che prima gli nomini ISBN e UPC, e poi vuole che citi tutti gli altri tipici di codici che si sono visti a lezione (tra lineari, ciclici, e bch).
+- Informazione mutua: dire tutto quello che si sa.
+- Spiegare i codici pesati: è stata detta la definizione, spiegata cos'è la checksum, come si calcola, e perchè si dice che un codice pesato è modulo n.
+- Data processing inequality
+- Dimostrazione E(x) >= H(X)
+- Che relazione c'è tra l'entropia e il logaritmo di m?
+- Diseguaglianza di Kraft-Millen
+- Primo teorema di Shennon: spiegare la formula e il contesto + dimostrazione
+- Calcolare la capacità di un canale binario
+- Capacità di canale: canale a cancellazione
+- Secondo teorema di Shannon
